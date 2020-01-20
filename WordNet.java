@@ -9,7 +9,7 @@ import java.util.*;
 //import sap.SAP;
 /**
  *
- * @author 14342
+ * @author Anurag Nigam 
  */
 public final class WordNet {
     private Map<String,Bag<Integer>> nounMap = new HashMap<String,Bag<Integer>>();
